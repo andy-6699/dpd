@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  const targetUrl = 'https://dpd.drsusiburton.com/de';
+  const targetUrl = 'https://dpd.sukezg.com/de';
   
   // 直接返回纯净的iframe页面，无任何多余文字
   res.setHeader('Content-Type', 'text/html');
